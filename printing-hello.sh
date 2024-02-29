@@ -2,9 +2,9 @@ R="\e[31m"     # Red
 G="\e[32m"     # Green
 Y="\e[33m"     # Yellow
 B="\e[34m"     # Blue
-P="\e[35"      # Purple
-C="\e[36"      # Cyan
-Gr="\e[37"     # Gray
+P="\e[35m"      # Purple
+C="\e[36m"      # Cyan
+Gr="\e[37m"     # Gray
 
 N="\e[0m"      # End of colour modification
 
@@ -13,9 +13,9 @@ N="\e[0m"      # End of colour modification
 # 5            # Blinking Characters
  
 echo "This is Batch-78"
-echo "This is Batch-78 DevOps Training"
+echo "This is Batch-78 DevOps Training\n\n"
 
-echo "How to do enable colours"
+echo "How to do enable colours\n\n"
 
 echo -e "$R This is Batch-78 $N"
 echo -e "$G This is Batch-78 DevOps Training $N"
