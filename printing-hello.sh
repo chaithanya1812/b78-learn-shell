@@ -15,7 +15,7 @@ N="\e[0m"      # End of colour modification
 echo "This is Batch-78"
 echo "This is Batch-78 DevOps Training"
 
-echo "git How to do with colours"
+echo "How to do enable colours"
 
 echo -e "$R This is Batch-78 $N"
 echo -e "$G This is Batch-78 DevOps Training $N"
