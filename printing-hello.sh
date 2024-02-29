@@ -13,9 +13,9 @@ N="\e[0m"      # End of colour modification
 # 5            # Blinking Characters
  
 echo "This is Batch-78"
-echo "This is Batch-78 DevOps Training\n\n"
+echo -e "This is Batch-78 DevOps Training\n\n"
 
-echo "How to do enable colours\n\n"
+echo -e "How to do enable colours\n\n"
 
 echo -e "$R This is Batch-78 $N"
 echo -e "$G This is Batch-78 DevOps Training $N"
