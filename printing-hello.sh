@@ -3,8 +3,8 @@ G="\e[32m"     # Green
 Y="\e[33m"     # Yellow
 B="\e[34m"     # Blue
 P="\e[35"      # Purple
-C="\e[36"      #
-Gr="\e[37"      # Gray
+C="\e[36"      # Cyan
+Gr="\e[37"     # Gray
 
 N="\e[0m"      # End of colour modification
 
