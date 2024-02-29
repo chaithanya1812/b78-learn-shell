@@ -25,6 +25,11 @@ echo -e "$P This is Batch-78 DevOps Training $N"
 echo -e "$C This is Batch-78 DevOps Training $N"
 echo -e "$Gr This is Batch-78 DevOps Training $N"
 
+echo -e "\n\n"
+
+echo -e "\e[1;32 With Bold-character \e[0m"
+echo -e "\e[5;31m With Blinking Red-clour \e[0m"
+
 
 
 
