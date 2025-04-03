@@ -169,3 +169,27 @@ Interview questions for LTI Mindtree that I attended today
 12.⁠ ⁠Explain briefly for 2 mins about the whole journey of migrating from on prem servers to cloud to docker to kubernetes along with advantages and disadvantages.
 13.⁠ ⁠Do you have knowledge on Github actions.
 14.⁠ ⁠Have you ever used Github secrets.
+
+Questions asked in todays Client interview - L3 level
+
+1) What is your exposure towards Cluster, Roles and Responsibilities
+2) What are the tools you have used in Kubernetes Cluster
+3) What are all the capacity things you have done from your end for K8
+4) How will you configure the EKS/AKS cluster
+5) How many worker nodes & master node you have on your setup
+6) Explain Daemon sets, PV, PVC , Storage classes, Ingress Controller, Service Account, Readiness probe, Liveness probe,
+7) What are all the backup tools you have worked for Cluster backup
+8) What are the tools you have worked in Cluster Logging, I told ELK and explained.
+9) What are the steps you ll do if a Master server is Down, will the application run even after the master is down if yes how ?
+10) Explain about the prev proj cluster setup
+11) What are the tools used used for Image security & vulnerability
+12) Have you worked on mission critical proj and confidentiality images?
+13) If a pod goes down, what will be your troubleshooting ?
+14) How to setup DR in cluster
+15) K8 Architecture and Installation, upgradation Steps
+16) Do you know Hashicorp Vault? what purpose and how it is used.
+17) Have you worked on Plain kubernetes are customized K8's like Nirmata K8's ?
+18) What is Artifactory, Registry
+19) Scripting Knowledge known.. They expect PowerShell, Python, Groovy, go, bash
+20) What are the services you knew in AWS/Azure
+
